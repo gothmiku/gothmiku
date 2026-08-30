@@ -1,8 +1,8 @@
 # 💫 About Me:
-I am an Android developer from Turkiye<br><br>⭐I rock Windows 11 and Fedora KDE Plasma<br>⭐I hate Java and like kotlin however my favorite languages are C++ and Python<br>⭐I am very interested in learning Vulkan, OpenGL and Rust<br><br>Feel free to contact me through e-mails:<br>[Berkan10001@gmail.com](mailto:Berkan10001@gmail.com)
+I am an Android developer from Turkiye<br><br>⭐I rock Windows 11 for gaming/dev and Fedora KDE Plasma for dev<br>⭐I hate Java and like Kotlin however my favorite languages are C++ and Python<br>⭐I am very interested in learning Vulkan, OpenGL and Rust<br><br>Feel free to contact me through e-mails:<br>[Berkan10001@gmail.com](mailto:Berkan10001@gmail.com)
 
 
-## 🌐 Socials:
+## 🌐 Contact:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:berkan10001@gmail.com) 
 
 # 💻 Tech Stack:
@@ -11,8 +11,3 @@ I am an Android developer from Turkiye<br><br>⭐I rock Windows 11 and Fedora KD
 ![](https://github-readme-stats.shion.dev/api?username=gothmiku&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=gothmiku&theme=vue-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=gothmiku&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=gothmiku&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
